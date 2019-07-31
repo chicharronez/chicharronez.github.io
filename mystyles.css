@@ -1,0 +1,53 @@
+#par1 {
+  font-family:'Shadows Into Light', cursive;
+  color: rgb(155, 234, 232);
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 10px;
+}
+
+#thefood {
+  background-color: yellow;
+  font-size:64;
+  font-family: monospace;
+}
+body {
+  background-color: rgb(215, 156, 202);
+}
+
+#headingone {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 50px;
+  text-shadow: 1px 3px rgb(176, 114, 254)
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 201px;
+  left: 100px;
+}
+
+h1 {
+  position: absolute;
+  left: 200px;
+  top: 0px;
+}
+
+#change {
+  display: block;
+  border: 3px solid #9BEAE8;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 10px;
+}
+
+h2 {
+  position: absolute;
+  top: 100px;
+}
