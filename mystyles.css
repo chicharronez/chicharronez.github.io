@@ -18,11 +18,8 @@ body {
 }
 
 #headingone {
+  vertical-align: middle;
   display: block;
-  margin-top: 10px;
-  margin-bottom: 30px;
-  margin-right: 150px;
-  margin-left: 50px;
   text-shadow: 1px 3px rgb(176, 114, 254)
 }
 
@@ -30,12 +27,6 @@ body {
   position: absolute;
   bottom: 201px;
   left: 100px;
-}
-
-h1 {
-  position: absolute;
-  left: 200px;
-  top: 0px;
 }
 
 #change {
