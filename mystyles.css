@@ -18,7 +18,12 @@ body {
 }
 
 #headingone {
-  vertical-align: middle;
+  font-size: 200%
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 200px;
+  margin-left: 600px;
   text-shadow: 1px 3px rgb(176, 114, 254)
 }
 
